@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on ... A Discord Bot using OCR for Eve Echoes! And I just picked up a new project of helping a friend with a gambling bot!
+- 🔭 I’m currently working on ... A Skyrim-Helgen-Tutorial sequence beating DQN AI.
 - 🌱 I’m currently learning ... Python, Java.
-- 🤔 I’m looking for help with ... OpenCV Pre-processing filters. :)
-- 💬 Ask me about ... Eve Echoes. :3
+- 🤔 I’m looking for help with ... Convolutional Neural Networks
+- 💬 Ask me about ... AI or Video Games.
 - 📫 How to reach me: ... Discord: expl0deb0ss
 
